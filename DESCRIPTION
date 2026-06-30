@@ -17,3 +17,5 @@ Imports:
     truncnorm
 Remotes: 
     m4ryjo/GcompBART
+URL: https://github.com/huixiaw012/glBART
+BugReports: https://github.com/huixiaw012/glBART/issues
